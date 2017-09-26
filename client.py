@@ -1,6 +1,7 @@
 import re
 import json
 import requests
+import redis
 
 input1=raw_input("Enter url")
 while True:
